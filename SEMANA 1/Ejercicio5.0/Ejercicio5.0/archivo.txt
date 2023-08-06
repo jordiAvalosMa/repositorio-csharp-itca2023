@@ -1,0 +1,23 @@
+La libreria System.IO en C# es una parte fundamental del lenguaje que permite trabajar con entrada y salida de datos,
+como leer y escribir archivos, directorios y otros recursos de E/S. Esta libreria proporciona clases y metodos para manejar 
+operaciones de entrada y salida, lo que resulta esencial en muchas aplicaciones para el procesamiento de archivos y datos.
+
+Una breve explicacion de algunas de las clases y conceptos clave en la libreria System.IO:
+
+File: Esta clase proporciona metodos estaticos para crear, copiar, mover, eliminar y administrar archivos. Puedes usarla para leer y escribir datos en archivos.
+
+Directory: Similar a la clase File, esta clase proporciona metodos estaticos para crear, copiar, mover y eliminar directorios y sus contenidos.
+
+Path: Esta clase te ayuda a trabajar con rutas de archivo y directorio de una manera segura y eficiente. Proporciona metodos para combinar, dividir y manipular rutas.
+
+StreamReader y StreamWriter: Estas clases permiten la lectura y escritura de secuencias de caracteres a partir de y hacia flujos de datos. 
+Son utiles para leer y escribir archivos de texto.
+
+BinaryReader y BinaryWriter: Estas clases te permiten leer y escribir datos binarios primitivos (como enteros, flotantes, etc.) en flujos de datos.
+
+FileStream: Esta clase proporciona una interfaz para leer y escribir bytes en un archivo. Te permite un control mas preciso sobre la lectura y escritura de datos.
+
+MemoryStream: Esta clase te permite trabajar con flujos de memoria en lugar de flujos de archivos. Es util cuando deseas leer o escribir datos en la memoria en lugar
+de en un archivo fisico.
+
+StreamReader y StreamWriter para MemoryStream: Puedes usar estas clases para leer y escribir datos en MemoryStream, lo que puede ser util para procesos en memoria
