@@ -1,0 +1,16 @@
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\bin\Debug\net7.0-windows\Ejercicio3_Alumno.exe
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\bin\Debug\net7.0-windows\Ejercicio3_Alumno.deps.json
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\bin\Debug\net7.0-windows\Ejercicio3_Alumno.runtimeconfig.json
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\bin\Debug\net7.0-windows\Ejercicio3_Alumno.dll
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\bin\Debug\net7.0-windows\Ejercicio3_Alumno.pdb
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\Ejercicio3_Alumno.Form1.resources
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\Ejercicio3_Alumno.csproj.GenerateResource.cache
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\Ejercicio3_Alumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\Ejercicio3_Alumno.AssemblyInfoInputs.cache
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\Ejercicio3_Alumno.AssemblyInfo.cs
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\Ejercicio3_Alumno.csproj.CoreCompileInputs.cache
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\Ejercicio3_Alumno.dll
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\refint\Ejercicio3_Alumno.dll
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\Ejercicio3_Alumno.pdb
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\Ejercicio3_Alumno.genruntimeconfig.cache
+C:\Users\jordi\OneDrive\Documentos\C#ITCA2023\repositorio-csharp-itca2023\Guia Semana 9\Ejercicio3_Alumno\obj\Debug\net7.0-windows\ref\Ejercicio3_Alumno.dll
