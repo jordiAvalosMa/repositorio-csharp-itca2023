@@ -24,7 +24,6 @@ namespace Ejercicio3_Alumno
             string apellido = txtApellido.Text;
             int edad = Convert.ToInt32(txtEdad.Text);
             double nota = Convert.ToDouble(txtNota.Text);
-            List<double> calificaciones = new List<double>();
             Alumno objAlumno = new Alumno(carnet, nombre, apellido, edad, nota);
             registroAlumno.RegistrarAlumno(objAlumno);
             LimpiarCampos();
